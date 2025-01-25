@@ -1,5 +1,5 @@
 # RxLocator
-
+COMP3901 Capstone project 2024-2025
 Contributors: Vedang Kevlani, Roshae Sinclair, Jada Walters, Keshawn McGrath
 ### **Project Overview**
 
